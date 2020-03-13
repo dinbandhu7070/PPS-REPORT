@@ -11,3 +11,12 @@ URN-1905093
 Branch-Electrical Engineering
 
 Section-B
+--------
+Experiment 1: Write a code to print your name
+```
+#include<stdio.h>
+int main()
+{
+printf("Dinbandhu Kumar");
+}
+```
