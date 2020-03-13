@@ -22,7 +22,20 @@ int main()
 {
 puts("Dinbandhu Kumar");
 }
-```
 Output : 
 
 Dinbandhu kumar
+```
+
+Experiment 2 : Write a practice program to display 'hello'.
+```C
+#include <stdio.h>
+int main()
+{
+    puts("hello");
+}
+
+Output : 
+
+hello
+```
