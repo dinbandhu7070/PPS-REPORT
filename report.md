@@ -4,15 +4,18 @@
 --------------------
 Submitted By-Dinbandhu Kumar
 
-CRN-1916089
+College Roll No: 1916089
 
-URN-1905093
+University Roll No: 1905093
 
-Branch-Electrical Engineering
+Branch: Electrical Engineering
 
-Section-B
+Section: B
+
+Batch: 2019-2023
+
 --------
-Experiment 1: Write a code to print your name
+Experiment 1 : Write a code to print your name
 ```C
 #include<stdio.h>
 int main()
