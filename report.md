@@ -1,4 +1,5 @@
-![College logo]()
+![College logo](https://www.gndec.ac.in/sites/default/logo.png)
+
 #Programming for Problem Solving(ESC-105)
 --------------------
 Submitted By-Dinbandhu Kumar
