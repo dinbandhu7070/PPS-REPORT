@@ -39,3 +39,83 @@ Output :
 
 hello
 ```
+Experiment 3 : 
+```C
+#include <stdio.h>
+int main()
+{
+    puts("########    ########     ####        ####");
+    puts("##      ####        ####   ###     ###");
+    puts("##      ####        ####     ###  ###");
+    puts("######  ####        ####       ####");
+    puts("##      ####        ####      ### ###");
+    puts("##      ####        ####     ###    ###");
+    puts("##          ########       ####       ####");
+}
+Output : 
+########    ########     ####        ####                                       
+##      ####        ####   ###     ###                                          
+##      ####        ####     ###  ###                                           
+######  ####        ####       ####                                             
+##      ####        ####      ### ###                                           
+##      ####        ####     ###    ###                                         
+##          ########       ####       #### 
+```
+Experiment 4 : Write a C program to print a big ' C '.
+```C
+#include <stdio.h>
+int main()
+{
+    puts(" ######");
+    puts("##     ##");
+    puts("#");
+    puts("#");
+    puts("#");
+    puts("#");
+    puts("#");
+    puts("##     ##");
+    puts("  ######");
+}
+Output : 
+ ######                                                                         
+##     ##                                                                       
+#                                                                               
+#                                                                               
+#                                                                               
+#                                                                               
+#                                                                               
+##     ##                                                                       
+  ######                                                                        
+```
+Experiment 5 : Design a code to execute addition of two numbers.
+```C
+#include <stdio.h>
+int main()
+{
+    int a,b,c;
+    puts("enter two numbers");
+    scanf("%d %d",&a,&b);
+    c=a+b;
+    printf("%d",c);
+    return 0;
+}
+Output : 
+enter two numbers                                                               
+5 6                                                                             
+11                                                                              
+```
+Experiment 6 : Write a computer program in C, which takes two numbers (integers) as input and print the smaller number.
+```C
+#include <stdio.h>
+int main()
+{
+    int a,b;
+    puts("enter the two number for comparison");
+    scanf("%d %d",&a,&b);
+    if(a<b)
+    printf("the smaller number is %d",a);
+    else
+    printf("the smaller number is %d",b);
+    return 0;
+}
+Output : 
