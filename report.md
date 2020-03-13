@@ -20,6 +20,9 @@ Experiment 1 : Write a code to print your name
 #include<stdio.h>
 int main()
 {
-printf("Dinbandhu Kumar");
+puts("Dinbandhu Kumar");
 }
 ```
+Output : 
+
+Dinbandhu kumar
